@@ -1,0 +1,14 @@
+E:\code\Module17Patterns\bin\Debug\net8.0\Module17Patterns.exe
+E:\code\Module17Patterns\bin\Debug\net8.0\Module17Patterns.deps.json
+E:\code\Module17Patterns\bin\Debug\net8.0\Module17Patterns.runtimeconfig.json
+E:\code\Module17Patterns\bin\Debug\net8.0\Module17Patterns.dll
+E:\code\Module17Patterns\bin\Debug\net8.0\Module17Patterns.pdb
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.AssemblyInfoInputs.cache
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.AssemblyInfo.cs
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.csproj.CoreCompileInputs.cache
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.dll
+E:\code\Module17Patterns\obj\Debug\net8.0\refint\Module17Patterns.dll
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.pdb
+E:\code\Module17Patterns\obj\Debug\net8.0\Module17Patterns.genruntimeconfig.cache
+E:\code\Module17Patterns\obj\Debug\net8.0\ref\Module17Patterns.dll
